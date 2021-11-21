@@ -1,4 +1,4 @@
-# DescrimiNO
+# DiscrimiNO
 
 ## Builds
 
