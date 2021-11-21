@@ -2,6 +2,6 @@
 
 ## Builds
 
-Download Demo app to test on your machine under Builds:
+Download Unity Demo app to test on your machine under Builds:
 
-[MacOS Build](/Builds/MacBuild.zip)
+[MacOS Build](/unity/Builds/MacBuild.zip)
